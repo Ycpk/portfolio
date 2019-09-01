@@ -39,9 +39,7 @@ export default function SimpleAppBar() {
           </Typography>
         </Toolbar>
       </AppBar>
-      <Box height="100%" width="100%">
-        <img src={BackgroundImage} />
-      </Box>
+
       {/* <Paper>
         {" "}
         <Typography variant="h6" color="inherit">
